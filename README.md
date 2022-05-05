@@ -1,1 +1,1 @@
-# BYUI-CSE121B-Coursework
+# BYU-I CSE 121B Coursework
