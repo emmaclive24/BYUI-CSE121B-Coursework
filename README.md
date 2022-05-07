@@ -12,7 +12,9 @@ Learned how to utilize the browser inspector and debug JS using the console.
 
 Learned how to inject data into HTML using JS.
 
-### Week 3: *TBA*
+### Week 3: Functions
+
+Learned how to declare and call both custom and integrated functions
 
 ### Week 4: *TBA*
 

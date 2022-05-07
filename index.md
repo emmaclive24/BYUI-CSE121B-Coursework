@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# BYU-I CSE 121B: JavaScript Language
 
-You can use the [editor on GitHub](https://github.com/irwindoug/BYUI-CSE121B-Coursework/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my GitHub Repository for my BYU-I CSE 121B Coursework: JavaScript Language! This is where I will post my assignments prior to submitting my work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Weekly Tasks
 
-### Markdown
+### [Week 1: Debugging](Week_1/hello.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Week 2: DOM Manipulation](/Week_2/task2.html)
 
-```markdown
-Syntax highlighted code block
+### [Week 3: Functions](/Week_3/task3.html)
 
-# Header 1
-## Header 2
-### Header 3
+### [Week 4: *TBA*](/#)
 
-- Bulleted
-- List
+### [Week 5: *TBA*](/#)
 
-1. Numbered
-2. List
+### [Week 6: *TBA*](/#)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### [Week 7: *TBA*](/#)
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/irwindoug/BYUI-CSE121B-Coursework/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
