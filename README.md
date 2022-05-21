@@ -16,9 +16,13 @@ Learned how to inject data into HTML using JS.
 
 Learned how to declare and call both custom and integrated functions
 
-### Week 4: *TBA*
+### Week 4: Object Literals
 
-### Week 5: *TBA*
+Learned how to create and reference objects in JavaScript
+
+### Week 5: AJAX
+
+Learned asynchronous functions and how to make AJAX requests using the Fetch function
 
 ### Week 6: *TBA*
 
