@@ -12,7 +12,7 @@ Welcome to my GitHub Repository for my BYU-I CSE 121B Coursework: JavaScript Lan
 
 ### [Week 4: Object Literals](/Week_4/task4.html)
 
-### [Week 5: *TBA*](/#)
+### [Week 5: AJAX Requests](/Week_5/task5.html)
 
 ### [Week 6: *TBA*](/#)
 
